@@ -5,18 +5,18 @@
 .row-content{
   margin:0px auto;
   padding:50px 0px;
-  border-bottom:2px ridge ;
+  border-bottom:1px ridge ;
 
 }
 .footer{
   margin:0px auto;
 padding:20px 0px;
-  background-color:#84FFFF;
+  background-color:#D1C4E9;
 }
 .jumbotron{
   padding:70px 30px;
   margin:0px auto;
-  background-color:#00B8D4;
+  background-color:#9575CD;
   color:floralwhite;
 }
 address{
@@ -27,8 +27,13 @@ address{
 body{
   padding:50px 0px 0px 0px;
 z-index:0;
-background-color: #E0F7FA;
 }
 .navbar-dark{
-  background-color:#01579B;
+  background-color:#512DA8;
+}
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
